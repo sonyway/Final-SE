@@ -1,0 +1,104 @@
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\ApplicationInsights.config
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\WebAppECartDemo.dll.config
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\WebAppECartDemo.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\WebAppECartDemo.pdb
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\EntityFramework.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\EntityFramework.SqlServer.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\Microsoft.AI.Web.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\Microsoft.AI.WindowsServer.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\Microsoft.ApplicationInsights.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\System.Web.Helpers.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\System.Web.Mvc.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\System.Web.Razor.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\System.Web.Webpages.Deployment.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\System.Web.Webpages.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\System.Web.Webpages.Razor.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\EntityFramework.xml
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\EntityFramework.SqlServer.xml
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\Microsoft.AI.Web.xml
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\Microsoft.AI.WindowsServer.xml
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\Microsoft.ApplicationInsights.xml
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\System.Web.Razor.xml
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\System.Web.Webpages.xml
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\System.Web.Webpages.Deployment.xml
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\System.Web.Webpages.Razor.xml
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\System.Web.Helpers.xml
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\System.Web.Mvc.xml
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\obj\Debug\WebAppECartDemo.csproj.AssemblyReference.cache
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\obj\Debug\WebAppECartDemo.csproj.CoreCompileInputs.cache
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\obj\Debug\WebAppECartDemo.csproj.CopyComplete
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\obj\Debug\WebAppECartDemo.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\obj\Debug\WebAppECartDemo.pdb
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\roslyn\csc.exe
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\roslyn\vbc.exe
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\roslyn\VBCSCompiler.exe
+D:\MyStudy\SE\Web_Final\WebAppECart-master\WebAppECartDemo\bin\roslyn\VBCSCompiler.exe.config
+E:\Web MVC\WebAppECartDemo\bin\ApplicationInsights.config
+E:\Web MVC\WebAppECartDemo\bin\roslyn\csc.exe
+E:\Web MVC\WebAppECartDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Web MVC\WebAppECartDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web MVC\WebAppECartDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Web MVC\WebAppECartDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Web MVC\WebAppECartDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Web MVC\WebAppECartDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Web MVC\WebAppECartDemo\bin\roslyn\System.Collections.Immutable.dll
+E:\Web MVC\WebAppECartDemo\bin\roslyn\System.Reflection.Metadata.dll
+E:\Web MVC\WebAppECartDemo\bin\roslyn\vbc.exe
+E:\Web MVC\WebAppECartDemo\bin\roslyn\VBCSCompiler.exe
+E:\Web MVC\WebAppECartDemo\bin\roslyn\VBCSCompiler.exe.config
+E:\Web MVC\WebAppECartDemo\bin\WebAppECartDemo.dll.config
+E:\Web MVC\WebAppECartDemo\bin\WebAppECartDemo.dll
+E:\Web MVC\WebAppECartDemo\bin\WebAppECartDemo.pdb
+E:\Web MVC\WebAppECartDemo\bin\EntityFramework.dll
+E:\Web MVC\WebAppECartDemo\bin\EntityFramework.SqlServer.dll
+E:\Web MVC\WebAppECartDemo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Web MVC\WebAppECartDemo\bin\Microsoft.AI.DependencyCollector.dll
+E:\Web MVC\WebAppECartDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Web MVC\WebAppECartDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Web MVC\WebAppECartDemo\bin\Microsoft.AI.Web.dll
+E:\Web MVC\WebAppECartDemo\bin\Microsoft.AI.WindowsServer.dll
+E:\Web MVC\WebAppECartDemo\bin\Microsoft.ApplicationInsights.dll
+E:\Web MVC\WebAppECartDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Web MVC\WebAppECartDemo\bin\Microsoft.Web.Infrastructure.dll
+E:\Web MVC\WebAppECartDemo\bin\System.Web.Helpers.dll
+E:\Web MVC\WebAppECartDemo\bin\System.Web.Mvc.dll
+E:\Web MVC\WebAppECartDemo\bin\System.Web.Razor.dll
+E:\Web MVC\WebAppECartDemo\bin\System.Web.Webpages.Deployment.dll
+E:\Web MVC\WebAppECartDemo\bin\System.Web.Webpages.dll
+E:\Web MVC\WebAppECartDemo\bin\System.Web.Webpages.Razor.dll
+E:\Web MVC\WebAppECartDemo\bin\EntityFramework.xml
+E:\Web MVC\WebAppECartDemo\bin\EntityFramework.SqlServer.xml
+E:\Web MVC\WebAppECartDemo\bin\Microsoft.AI.DependencyCollector.xml
+E:\Web MVC\WebAppECartDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Web MVC\WebAppECartDemo\bin\Microsoft.AI.Web.xml
+E:\Web MVC\WebAppECartDemo\bin\Microsoft.AI.WindowsServer.xml
+E:\Web MVC\WebAppECartDemo\bin\Microsoft.ApplicationInsights.xml
+E:\Web MVC\WebAppECartDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Web MVC\WebAppECartDemo\bin\System.Web.Razor.xml
+E:\Web MVC\WebAppECartDemo\bin\System.Web.Webpages.xml
+E:\Web MVC\WebAppECartDemo\bin\System.Web.Webpages.Deployment.xml
+E:\Web MVC\WebAppECartDemo\bin\System.Web.Webpages.Razor.xml
+E:\Web MVC\WebAppECartDemo\bin\System.Web.Helpers.xml
+E:\Web MVC\WebAppECartDemo\bin\System.Web.Mvc.xml
+E:\Web MVC\WebAppECartDemo\obj\Debug\WebAppECartDemo.csproj.AssemblyReference.cache
+E:\Web MVC\WebAppECartDemo\obj\Debug\WebAppECartDemo.csproj.CoreCompileInputs.cache
+E:\Web MVC\WebAppECartDemo\obj\Debug\WebAppECartDemo.csproj.CopyComplete
+E:\Web MVC\WebAppECartDemo\obj\Debug\WebAppECartDemo.dll
+E:\Web MVC\WebAppECartDemo\obj\Debug\WebAppECartDemo.pdb

@@ -1,0 +1,99 @@
+﻿@model IEnumerable<WebAppECartDemo.ViewModel.ShoppingCartModel>
+@{
+    ViewBag.Title = "ShoppingCart";
+    decimal TotalAmount = 0.00M;
+}
+
+<h2>ShoppingCart</h2>
+
+
+
+
+<table class="table-condensed" style="width: 100%">
+    @if (Model != null)
+    {
+        foreach (var item in Model)
+        {
+            using (Html.BeginForm("UpdateItem", "Shopping", FormMethod.Post))
+            {
+                TotalAmount += item.Total;
+                <tr>
+                    <td>
+                        <img src="@Url.Content(item.ImagePath)" height="50px" width="50px" class="img-rounded" />
+                    </td>
+                    <td>
+                        @item.ItemName
+                        @Html.HiddenFor(model => model.Single(a => a.ItemName == item.ItemName).ItemName)
+                    </td>
+                    <td style="text-align: right">
+                        @Html.TextBoxFor(model => model.Single(a => a.ItemName == item.ItemName).Quantity)
+                        @Html.ValidationMessageFor(model => model.Single(a => a.ItemName == item.ItemName).Quantity)
+                    </td>
+                    <td style="text-align: right">
+                        @item.UnitPrice.ToString("#,##0.00")
+                    </td>
+                    <td style="text-align: right">
+                        @item.Total.ToString("#,##0.00")
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Remove Item", "RemoveItem", "Shopping", new { name = item.ItemName }, null)
+                    </td>
+
+                    <td>
+                        <button type="submit"> Update Quantity </button>
+                    </td>
+                </tr>
+            }
+        }
+    }
+
+
+
+    @using (Html.BeginForm("AddOrder", "Shopping", FormMethod.Post))
+    {
+        <tr style="border-top: 2px solid maroon">
+            <td colspan="4" style="text-align: right">
+                <h3>Total Amount:</h3>
+            </td>
+            <td style="text-align: right">
+                <h3>@TotalAmount.ToString("#,##0.00")</h3>
+            </td>
+        </tr>
+
+        <tr style = "border-top: 2px solid maroon" >
+        <td colspan="4" style="text-align: right;">
+            <h3 style ="margin-bottom: 9rem; margin-right: 62.4rem ">Payment method:</h3>
+        </td>
+        <td style="text-align: right">
+            <input type="radio" id="cash" name="payment" value="Cash" checked="checked">
+            <img src="https://img.icons8.com/color/48/null/cash-in-hand.png" />
+            <label for="cash">Cash</label><br>
+            <input type="radio" style="margin-right: 1rem" id="Momo" name="payment" value="Momo">
+            <img src="https://play-lh.googleusercontent.com/dQbjuW6Jrwzavx7UCwvGzA_sleZe3-Km1KISpMLGVf1Be5N6hN6-tdKxE5RDQvOiGRg" height="36px" width="36px"
+            <label for="momo"  > <b> Momo</b></label><br>
+            <input type="radio" id="creditcard" name="payment" value="CreditCard">
+            <img src="https://img.icons8.com/emoji/48/null/credit-card-emoji.png" />
+            <label for="creditcard">Credit Card</label>
+        </td>
+        </tr>
+
+        <tr style="text-align: right">
+            <td colspan="5">
+                <input type="submit" value="Save" name="Save" class="btn btn-primary" id="SaveOrder" />
+            </td>
+        </tr>
+
+        <tr style="text-align: center">
+            <td colspan="5">
+                @Html.ActionLink("Back to Shopping", "Index", "Shopping")
+            </td>
+        </tr>
+
+
+    }
+</table>
+
+
+
+
